@@ -1,0 +1,19 @@
+# Core dependencies
+torch==2.8.0
+torch-geometric==2.7.0
+
+# Data & math
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.16.3
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# ML utils
+scikit-learn==1.8.0
+networkx==3.6.1
+
+# Misc
+tqdm==4.67.1
