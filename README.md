@@ -33,7 +33,10 @@ This repository provides a comprehensive pipeline that includes:
   ![Precision, Recall, F1-Score](./images/output2.png)  
 
   ### Confusion Matrix  
-  ![Confusion Matrix](./images/output3.png)  
+  ![Confusion Matrix](./images/output3.png)
+
+  ### ROC Curve 
+   ![Confusion Matrix](./images/output.png)
 
 
 ## Key Features
