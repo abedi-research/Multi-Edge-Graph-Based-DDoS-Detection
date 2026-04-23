@@ -13,6 +13,8 @@ This repository provides a comprehensive pipeline that includes:
 - **Data Preprocessing and Graph Construction:**  
   Loading raw network flow data, feature cleaning and normalization, constructing graph representations with nodes (entities such as clients/servers) and edges (network connections), and handling class imbalance via graph-based balancing techniques.
 
+  ![Dataset Graph Example](./images/graph_example.png)
+
 - **Graph Feature Engineering:**  
   Calculating node and edge embeddings that capture essential semantic and behavioral characteristics of network traffic.
 
@@ -22,8 +24,17 @@ This repository provides a comprehensive pipeline that includes:
 - **Training and Evaluation:**  
   Training the GNN on labeled network traffic data, validating via standard metrics, and finally evaluating on test sets to assess detection performance.
 
+  ![Training History](./images/output4.png)
+
 - **Results Visualization:**  
   Providing tools for visual analysis of model predictions, including confusion matrices, precision/recall/F1 scores, and multi-class ROC curves to understand classification effectiveness.
+
+  ### Precision, Recall, and F1-Score  
+  ![Precision, Recall, F1-Score](./images/output2.png)  
+
+  ### Confusion Matrix  
+  ![Confusion Matrix](./images/output3.png)  
+
 
 ## Key Features
 
