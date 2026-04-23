@@ -64,10 +64,10 @@ This repository provides a comprehensive pipeline that includes:
 
 This repository is open for contributions, improvements, and discussions. We welcome collaborators interested in enhancing network security through graph deep learning.
 
-## Citation
+### Citation
 
-If you use this code in your research, please cite the corresponding article:  
-*(Provide citation details here)*
+The corresponding paper is currently under review.  
+Citation information will be updated upon publication.
 
 ---
 
