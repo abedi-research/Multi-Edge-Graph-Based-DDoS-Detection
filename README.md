@@ -36,7 +36,7 @@ This repository provides a comprehensive pipeline that includes:
   ![Confusion Matrix](./images/output3.png)
 
   ### ROC Curve 
-   ![Confusion Matrix](./images/output.png)
+   ![Confusion Matrix](./images/image.png)
 
 
 ## Key Features
