@@ -13,7 +13,7 @@ This repository provides a comprehensive pipeline that includes:
 - **Data Preprocessing and Graph Construction:**  
   Loading raw network flow data, feature cleaning and normalization, constructing graph representations with nodes (entities such as clients/servers) and edges (network connections), and handling class imbalance via graph-based balancing techniques.
 
-  ![Dataset Graph Example](./images/graph_example.png)
+  ![Dataset Graph Example](./images/output5.png)
 
 - **Graph Feature Engineering:**  
   Calculating node and edge embeddings that capture essential semantic and behavioral characteristics of network traffic.
